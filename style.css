@@ -1,0 +1,42 @@
+
+.img1 {
+    width: 100%;
+    padding: 17px 0px 0px 0px;
+}
+img{
+    
+    
+    width: 100%;
+}
+.font{
+    padding: 5px;
+    border-radius: 5px;
+    width: fit-content;
+    background-color: rgba(119, 0, 0, 0.185);
+color: rgb(63, 63, 230);
+    font-size: 40px;
+    font-weight: 900;
+    font-style: normal;
+    font-family: ;
+}
+h4, h6
+    border-radius: 1rem;
+    padding:2rem ;
+    color: rgb(49, 155, 155, 0.993);
+background-color:  rgba(4, 80, 110, 0.205);
+    
+}
+.col-md-6.tnbr-left {
+    padding-right: 70px;
+}
+.row.tnbr {
+    box-shadow: 3px 4px 6px -4px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.h2, h2 {
+    font-size: 25px;
+}
+.col-md-6.tnbr-img {
+    padding-top: 47px;
+}
