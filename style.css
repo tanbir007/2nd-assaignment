@@ -1,11 +1,13 @@
 
+.hed-top{
+    background: #fff5f5;
+}
+
 .img1 {
     width: 100%;
     padding: 17px 0px 0px 0px;
 }
 img{
-    
-    
     width: 100%;
 }
 .font{
@@ -18,13 +20,6 @@ color: rgb(63, 63, 230);
     font-weight: 900;
     font-style: normal;
     font-family: ;
-}
-h4, h6
-    border-radius: 1rem;
-    padding:2rem ;
-    color: rgb(49, 155, 155, 0.993);
-background-color:  rgba(4, 80, 110, 0.205);
-    
 }
 .col-md-6.tnbr-left {
     padding-right: 70px;
@@ -39,4 +34,19 @@ background-color:  rgba(4, 80, 110, 0.205);
 }
 .col-md-6.tnbr-img {
     padding-top: 47px;
+}
+.manu-area img {
+    width: 31%;
+    margin-top: 20px;
+}
+.col.bshe-do {
+    box-shadow: -7px 8px 19px -18px;
+    border-radius: 4px 0px 20px 20px;
+}
+.winter{
+    color: #efe707;
+    font-size: 28px;
+}
+.winter span{
+    color: #614873;
 }
